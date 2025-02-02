@@ -1,6 +1,6 @@
 import { Controller, Get, Post, Body } from '@nestjs/common';
 import { SuperheroesService } from './superheroes.service';
-import { SuperheroesDto } from 'src/dtos/Superheroes.dto';
+import { SuperheroesDto } from '../dtos/Superheroes.dto';
 import * as fs from 'fs/promises';
 import * as path from 'path';
 
