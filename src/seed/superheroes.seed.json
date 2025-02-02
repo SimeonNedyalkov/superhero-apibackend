@@ -1,1 +1,42 @@
-[{"superhero":"Inferno","superpower":"fire","humilityScore":8},{"superhero":"Glacius","superpower":"ice","humilityScore":6},{"superhero":"Zappy","superpower":"electricity","humilityScore":7},{"superhero":"Geomancer","superpower":"earth","humilityScore":9},{"superhero":"Aerion","superpower":"wind","humilityScore":4},{"superhero":"Echo","superpower":"sound","humilityScore":7},{"superhero":"Chrono","superpower":"time manipulation","humilityScore":3},{"superhero":"Sami","superpower":"Kek","humilityScore":8}]
+[
+  {
+    "superhero": "Inferno",
+    "superpower": "fire",
+    "humilityScore": 8
+  },
+  {
+    "superhero": "Glacius",
+    "superpower": "ice",
+    "humilityScore": 6
+  },
+  {
+    "superhero": "Zappy",
+    "superpower": "electricity",
+    "humilityScore": 7
+  },
+  {
+    "superhero": "Geomancer",
+    "superpower": "earth",
+    "humilityScore": 9
+  },
+  {
+    "superhero": "Aerion",
+    "superpower": "wind",
+    "humilityScore": 4
+  },
+  {
+    "superhero": "Echo",
+    "superpower": "sound",
+    "humilityScore": 7
+  },
+  {
+    "superhero": "Chrono",
+    "superpower": "time manipulation",
+    "humilityScore": 3
+  },
+  {
+    "superhero": "Sami",
+    "superpower": "Kek",
+    "humilityScore": 8
+  }
+]
