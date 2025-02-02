@@ -1,4 +1,11 @@
-import { IsNotEmpty, MinLength, IsString, IsNumber } from 'class-validator';
+import {
+  IsNotEmpty,
+  MinLength,
+  IsString,
+  IsNumber,
+  Min,
+  Max,
+} from 'class-validator';
 
 export class SuperheroesDto {
   superhero: string;
@@ -17,6 +24,8 @@ export class SuperheroData {
   @IsNotEmpty()
   superpower: string;
 
+  @Min(1)
+  @Max(10)
   @IsNumber()
   humilityScore: number;
 }
